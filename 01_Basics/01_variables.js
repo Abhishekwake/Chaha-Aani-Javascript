@@ -8,11 +8,17 @@ let accountState;
 
 accountEmail = "hk@faceboom.com";
 accountPass = "4444";
-accountState = "Jaipur";
+accountCity = "Jaipur";
 
 /*
 Prefer not to use var
 because of issue in block scope and functional scope
 */
 
-console.table([accountId, accountEmail, accountPass, accountState]);
+console.table([
+  accountId,
+  accountEmail,
+  accountPass,
+  accountCity,
+  accountState,
+]);
