@@ -119,7 +119,7 @@ console.log(typeof null); // object
 //   ```javascript
 //   console.log(typeof "Hitesh"); // "string"
 //   console.log(typeof 18);       // "number"
-//   console.log(typeof null);     // "object" (Known JS quirk)
+//   console.log(typeof null);     // "object" (Known JS quirk) Interview Quesition
 //   console.log(typeof undefined); // "undefined"
 //   ```
 
